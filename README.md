@@ -26,14 +26,34 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Expo](https://expo.io/)
+
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 
 ## 💻 Projeto
 
 
+<br>
 
+## Instalação e uso
+
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/martins-rafael/dtmoney.git
+# ou use a opção de download.
+
+# Entre na pasta web com 
+cd dtmoney
+
+# Instale as dependências
+yarn install
+
+# Rode a aplicação
+yarn start
+```
+
+<br>
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web.
