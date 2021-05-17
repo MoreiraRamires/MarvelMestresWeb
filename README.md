@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone link do fdadadfafdafdasfdsa
+git clone link do git clone link do https://github.com/MoreiraRamires/MarvelMestresWeb.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
