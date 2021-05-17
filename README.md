@@ -1,6 +1,5 @@
 <h1 align="center">
     Marvel Mestres da Web
-    <img alt="Marvel Mestres da Web" title="Marvel" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
